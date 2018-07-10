@@ -65,8 +65,11 @@ Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for 
 Data is clensed and preprocessing techniques are performed on data <br>
 
 <h2>Prediction Algorithms with metrices</h2>
+the root mean squared error (RMSE), the coefficient of determination or R-squared/R2, the mean absolute error (MAE) and the mean absolute percentage error (MAPE):<br>
 
-![screen shot 2018-07-10 at 12 01 45 pm](https://user-images.githubusercontent.com/40823735/42493118-360501d0-8439-11e8-99f8-7fb45ce4d560.jpg)
+![screen shot 2018-07-10 at 1 01 48 pm](https://user-images.githubusercontent.com/40823735/42495829-d97aec6e-8441-11e8-9e79-9434a5ede361.jpg)
+<br>
+
 
 <h2> Feature Selection </h2>
 After selecting features manually,and with the help of Correlation-matrix, Boruta, Tsfresh, Featuretools, RFE and trying them out.<br> 
