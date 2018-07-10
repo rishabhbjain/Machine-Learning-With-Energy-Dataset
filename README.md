@@ -70,6 +70,7 @@ the root mean squared error (RMSE), the coefficient of determination or R-square
 ![screen shot 2018-07-10 at 1 01 48 pm](https://user-images.githubusercontent.com/40823735/42495829-d97aec6e-8441-11e8-9e79-9434a5ede361.jpg)
 <br>
 
+![screen shot 2018-07-10 at 12 01 45 pm](https://user-images.githubusercontent.com/40823735/42496220-fb080b04-8442-11e8-8a8c-13bc9d9c81c4.jpg)
 
 <h2> Feature Selection </h2>
 After selecting features manually,and with the help of Correlation-matrix, Boruta, Tsfresh, Featuretools, RFE and trying them out.<br> 
