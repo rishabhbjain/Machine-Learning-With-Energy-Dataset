@@ -70,4 +70,4 @@ The following features were selected that gives the best result- <br>
 <i>hour, month, day_of_week, period, time, T4, T5, T6,T8, T9, Tdewpoint, T_out, RH_4, RH_5, RH_6, RH_7, RH_8, RH_9, Press_mm_hg</i><br>
 
 <h2> Model Validation and Selection </h2>
-<i> Cross-validation is used to validate model. After validation, Random Forest Regressor is selected as best prediction model with R2_test score <b>0.57</b> and R2_train score <b>0.94</b></i>
+<i> Cross-validation is used to validate model. After validation, <b>Random Forest Regressor</b> is selected as best prediction model with R2_test score <b>0.57</b> and R2_train score <b>0.94</b></i>
