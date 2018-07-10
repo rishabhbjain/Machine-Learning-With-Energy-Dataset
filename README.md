@@ -62,7 +62,8 @@ Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for 
 
 <h2>Feature Engineering</h2>
 
-Data is clensed and preprocessing techniques are performed on data <br>
+The data is checked for null values and distribution of data is checked to get the data in normal distribution form.<br>
+Transformed data with the help of MinMaxScaler to get all the features on same scale. In the range of 0 to 1.<br>
 
 <h2>Prediction Algorithms with metrices</h2>
 the root mean squared error (RMSE), the coefficient of determination or R-squared/R2, the mean absolute error (MAE) and the mean absolute percentage error (MAPE):<br>
