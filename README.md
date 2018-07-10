@@ -6,7 +6,8 @@ As interest in IOT and sensors pick up steam, companies are trying to build algo
 
 <h2><b>Details of Dataset</b></h2>
 <b><h3>First Floor</h3></b><br>
-![firstfloor](https://user-images.githubusercontent.com/40823735/42492352-645beb82-8436-11e8-977f-15721f0b60e4.png)<br>
+
+![firstfloor](https://user-images.githubusercontent.com/40823735/42492844-38eb8c1c-8438-11e8-8446-87931d2ff65d.png)<br>
 <i>Temperature and Humidity sensors position. The blue circles indicate the sensor number. The coordinator (C) is positioned around the middle of the house, near the dining room table. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of the article.)</i><br>
 
 <b><h3>Second Floor</h3></b><br>
