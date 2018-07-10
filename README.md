@@ -48,7 +48,7 @@ Where indicated, data from the nearest airport weather station (Chièvres Airpor
 Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4 months of data.
 
 
-<h2>Data Analysis</h2>
+<h2>Exploratory Data Analysis</h2>
 
 ![screen shot 2018-07-10 at 11 30 06 am](https://user-images.githubusercontent.com/40823735/42491949-b1131c72-8434-11e8-9462-f9798a4f3d07.jpg)
 <i> The graph states that Appliances contribute to major part of energy consumption. </i><br> 
@@ -64,4 +64,10 @@ Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for 
 
 ![screen shot 2018-07-10 at 12 01 45 pm](https://user-images.githubusercontent.com/40823735/42493118-360501d0-8439-11e8-99f8-7fb45ce4d560.jpg)
 
-<i> After cross-validation Random Forest Regressor is selected as best prediction model with R2_test score 0.57 and R2_train score 0.94</i>
+<h2> Feature Selection </h2>
+After selecting features manually,and with the help of Correlation-matrix, Boruta, Tsfresh, Featuretools, RFE and trying them out.<br> 
+The following features were selected that gives the best result- <br>
+<i>hour, month, day_of_week, period, time, T4, T5, T6,T8, T9, Tdewpoint, T_out, RH_4, RH_5, RH_6, RH_7, RH_8, RH_9, Press_mm_hg</i><br>
+
+<h2> Model Validation and Selection </h2>
+<i> Cross-validation is used to validate model. After validation, Random Forest Regressor is selected as best prediction model with R2_test score <b>0.57</b> and R2_train score <b>0.94</b></i>
