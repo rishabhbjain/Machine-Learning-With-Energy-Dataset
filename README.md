@@ -48,7 +48,7 @@ Where indicated, data from the nearest airport weather station (Chièvres Airpor
 Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for the distribution of the 4 months of data.
 
 
-<h2>Exploratory Data Analysis</h2>
+<h2>Data Analysis</h2>
 
 ![screen shot 2018-07-10 at 11 30 06 am](https://user-images.githubusercontent.com/40823735/42491949-b1131c72-8434-11e8-9462-f9798a4f3d07.jpg)
 <i> The graph states that Appliances contribute to major part of energy consumption. </i><br> 
@@ -60,4 +60,8 @@ Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for 
 <i>Energy Consumption is high from <b>17:00 to 19:00 hrs</b> i.e in the evening</i><br>
 <i>Energy Consumption is low from <b>22:00 to 6:00 hrs</b> i.e at late night </i><br>
 
+<h2>Prediction Algorithms with metrices</h2>
 
+![screen shot 2018-07-10 at 12 01 45 pm](https://user-images.githubusercontent.com/40823735/42493118-360501d0-8439-11e8-99f8-7fb45ce4d560.jpg)
+
+<i> After cross-validation Random Forest Regressor is selected as best prediction model with R2_test score 0.57 and R2_train score 0.94</i>
