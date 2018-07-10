@@ -60,6 +60,10 @@ Reliable Prognosis, rp5.ru. Permission was obtained from Reliable Prognosis for 
 <i>Energy Consumption is high from <b>17:00 to 19:00 hrs</b> i.e in the evening</i><br>
 <i>Energy Consumption is low from <b>22:00 to 6:00 hrs</b> i.e at late night </i><br>
 
+<h2>Feature Engineering</h2>
+
+Data is clensed and preprocessing techniques are performed on data <br>
+
 <h2>Prediction Algorithms with metrices</h2>
 
 ![screen shot 2018-07-10 at 12 01 45 pm](https://user-images.githubusercontent.com/40823735/42493118-360501d0-8439-11e8-99f8-7fb45ce4d560.jpg)
@@ -71,3 +75,8 @@ The following features were selected that gives the best result- <br>
 
 <h2> Model Validation and Selection </h2>
 <i> Cross-validation is used to validate model. After validation, <b>Random Forest Regressor</b> is selected as best prediction model with R2_test score <b>0.57</b> and R2_train score <b>0.94</b></i>
+
+<h2>References </h2>
+https://www.sciencedirect.com/science/article/pii/S0378778816308970?via%3Dihub<br>
+https://www.sciencedirect.com/science/article/pii/S1364032116307420<br>
+https://www.sciencedirect.com/science/article/pii/S0360544212002903<br>
