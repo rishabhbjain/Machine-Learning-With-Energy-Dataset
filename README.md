@@ -14,7 +14,7 @@ As interest in IOT and sensors pick up steam, companies are trying to build algo
 ![second floor](https://user-images.githubusercontent.com/40823735/42492368-7570ba24-8436-11e8-983f-dcea4adb36f4.png)<br>
 <i>Location of the Temperature and Humidity sensors. The blue circles indicate the sensor number. Sensor node 6 measures the exterior conditions. (For interpretation of the references to color in this figure legend, the reader is referred to the web version of the article.)</i><br>
 <b><h3>Variable Description</h3></b><br>
-<b>date time year-month-day hour:minute:second</b><br>
+<b>date, time year-month-day hour:minute:second</b><br>
 <b>Appliances</b>, energy use in <b>Wh</b><br>
 <b>lights</b>, energy use of light fixtures in the house in <b>Wh</b><br>
 <b>T1</b>, Temperature in kitchen area, in <b>Celsius</b><br>
