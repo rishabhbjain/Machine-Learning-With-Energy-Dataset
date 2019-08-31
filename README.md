@@ -1,4 +1,4 @@
-# Machine_Learning_for_Predicting_Energy_Consumption
+# Machine Learning for Predicting Energy Consumption
 
 <h2>Introduction</h2>
 
